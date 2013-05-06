@@ -49,3 +49,6 @@ ajoute "CSSlisible"
 	"Emmet"
 	"sideBarEnhancements"
 verifier tout les dossiers installés dans le "list pakage"
+
+Pour les tous raccoursis http://docs.emmet.io/cheat-sheet/ 
+
