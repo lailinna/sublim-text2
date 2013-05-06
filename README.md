@@ -43,3 +43,9 @@ code sublim text Raccourci
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": "true"
 }
+
+http://blog.goetter.fr/post/24671859680/sublime-text-2-raccourcis-et-plugins
+ajoute "CSSlisible"
+	"Emmet"
+	"sideBarEnhancements"
+verifier tout les dossiers installés dans le "list pakage"
